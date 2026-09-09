@@ -1,80 +1,53 @@
-# 👋 Hi, I'm Edda
+![Edda — Cybersecurity Student at APU](assets/terminal-header.svg)
 
-> Cybersecurity student building practical security tools, detection systems, and defensive projects.
+### `$ cat about.txt`
 
----
+I'm **Edda**, a cybersecurity student at **Asia Pacific University (APU)**.
+I enjoy exploring how attacks work and turning that curiosity into practical cybersecurity projects — especially tools that help people understand and respond to security risks.
 
-## 🛡️ About Me
+### `$ cat interests.conf`
 
-🎓 Bachelor of Computer Science (Cyber Security) student at Asia Pacific University  
-🔍 Interested in SOC, Blue Team, Threat Detection, Security Engineering and Digital Forensics  
-🚩 Active in CTFs and hands-on cybersecurity labs  
-🧠 I enjoy understanding how attacks work, then building ways to detect and prevent them  
-💻 Currently focused on building practical cybersecurity tools for real users
+```ini
+[interests]
+focus    = cybersecurity, threat detection, defensive security
+approach = explore, experiment, build
+```
 
----
+### `$ ls -la projects/`
 
-## 🚀 Featured Projects
+#### `01` · [CyberFish](https://github.com/edda1011/CyberFish)
+**A privacy-conscious phishing analyzer.**
 
-### 🐟 CyberFish
-**Privacy-conscious phishing and suspicious content analyzer**
+Inspect suspicious links, emails, and QR codes with evidence, risk indicators, and practical next steps. Combines local checks with threat intelligence and optional AI explanations.
 
-CyberFish helps users analyze suspicious:
+`Next.js` `TypeScript` `Google Safe Browsing` `Gemini`
 
-- URLs
-- Emails
-- QR Codes
-- Email headers
-- Embedded links
-- Domain information
-
-It combines local analysis, security heuristics, threat intelligence and optional AI-assisted explanations.
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `Security APIs` `Gemini` `Vercel`
-
-🔗 Live Demo: https://cyber-fish-pi.vercel.app  
-🔗 Repository: https://github.com/edda1011/CyberFish
+[View source →](https://github.com/edda1011/CyberFish) · [Live demo ↗](https://cyber-fish-pi.vercel.app)
 
 ---
 
-### 🛡️ ThreatLens
-**Personal security monitoring for everyday Windows users**
+#### `02` · [ThreatLens](https://github.com/edda1011/ThreatLens)
+**A local-first Windows security monitoring project.**
 
-ThreatLens is a personal SOC-style security monitoring tool designed to help normal users understand suspicious activity happening on their device.
+Designed to turn Windows security events into clear, understandable alerts while keeping raw logs on the device. **Pre-alpha:** the specification and Python CLI foundation are in place; event collection and detection are not implemented yet.
 
-Planned capabilities:
+`Python` `Windows Security` `Detection Engineering`
 
-- Failed login detection
-- Brute-force detection
-- Suspicious login correlation
-- New administrator account detection
-- Suspicious PowerShell activity
-- Windows Defender event analysis
-- Risk scoring
-- Human-readable security alerts
-- Recommended response actions
-
-**Goal**
-
-> Detect suspicious activity before it becomes a serious incident.
-
-**Tech Stack**
-
-`Python` `Windows Event Logs` `Detection Engineering` `MITRE ATT&CK`
+[View source →](https://github.com/edda1011/ThreatLens)
 
 ---
 
-## 🔐 Cybersecurity Interests
+#### `03` · [FortiFi](https://github.com/edda1011/FortiFi)
+**An experiment in financial claim verification and auditable risk analysis.**
 
-```text
-SOC Operations
-Threat Detection
-Incident Response
-Network Security
-Digital Forensics
-Web Security
-Threat Intelligence
-Security Automation
-MITRE ATT&CK
+Combines multiple AI models to assess financial claims, connects ETH risk analysis to protection options, and supports tamper-evident records on Sui.
+
+`React` `FastAPI` `SQLite` `Base` `Sui / Move`
+
+[View source →](https://github.com/edda1011/FortiFi)
+
+---
+
+```console
+edda1011@github:~$ _
+```
