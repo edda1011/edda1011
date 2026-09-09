@@ -10,9 +10,11 @@
 - 🔍 I enjoy exploring how attacks work and how to detect and prevent them.
 - 🛠️ I turn my interest in cybersecurity into practical tools and hands-on projects.
 
+<br><br>
+
 ## 🚀 Featured Projects
 
-### [CyberFish — Phishing Analyzer](https://github.com/edda1011/CyberFish)
+### CyberFish — Phishing Analyzer
 
 > A privacy-conscious tool for inspecting suspicious links, emails, and QR codes.
 
@@ -24,11 +26,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-[Source code ↗](https://github.com/edda1011/CyberFish) · [Live demo ↗](https://cyber-fish-pi.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edda1011/CyberFish) · [![Live Demo](https://img.shields.io/badge/Live_Demo-008C95?style=for-the-badge&logo=vercel&logoColor=white)](https://cyber-fish-pi.vercel.app)
 
 ---
 
-### [ThreatLens — Windows Security Monitoring](https://github.com/edda1011/ThreatLens)
+### ThreatLens — Windows Security Monitoring
 
 > A local-first project for making Windows security activity easier to understand.
 
@@ -40,11 +42,11 @@
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-261230?style=flat-square&logo=ruff&logoColor=D7FF64)
 
-[Source code ↗](https://github.com/edda1011/ThreatLens)
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edda1011/ThreatLens)
 
 ---
 
-### [FortiFi — Financial Claim Verification](https://github.com/edda1011/FortiFi)
+### FortiFi — Financial Claim Verification
 
 > An experiment combining AI-assisted verification, ETH risk analysis, and on-chain records.
 
@@ -57,7 +59,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
 
-[Source code ↗](https://github.com/edda1011/FortiFi)
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edda1011/FortiFi)
 
 ## 🌐 Let's Connect
 
