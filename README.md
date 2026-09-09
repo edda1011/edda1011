@@ -1,53 +1,37 @@
 ![Edda — Cybersecurity Student at APU](assets/terminal-header.svg)
 
-### `$ cat about.txt`
+## `~/projects`
 
-I'm **Edda**, a cybersecurity student at **Asia Pacific University (APU)**.
-I enjoy exploring how attacks work and turning that curiosity into practical cybersecurity projects — especially tools that help people understand and respond to security risks.
+<table>
+<tr><td>
+<br>
+<samp>PHISHING ANALYSIS</samp>
+<h3><a href="https://github.com/edda1011/CyberFish"><code>./CyberFish</code></a></h3>
+<p><samp>Inspect suspicious links, emails, and QR codes with clear evidence and practical next steps.</samp></p>
 
-### `$ cat interests.conf`
+<p><img alt="Next.js" src="https://img.shields.io/badge/Next.js-151e27?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=55dfbd" height="26"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-151e27?style=for-the-badge&amp;logo=typescript&amp;logoColor=55dfbd" height="26"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-151e27?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=55dfbd" height="26"></p>
+<p><samp><a href="https://github.com/edda1011/CyberFish">source ↗</a> &nbsp; / &nbsp; <a href="https://cyber-fish-pi.vercel.app">live demo ↗</a></samp></p>
+</td></tr>
+<tr><td>
+<br>
+<samp>WINDOWS SECURITY</samp>
+<h3><a href="https://github.com/edda1011/ThreatLens"><code>./ThreatLens</code></a></h3>
+<p><samp>A local-first project for turning Windows security events into understandable alerts.</samp></p>
+<p><sub>Pre-alpha · CLI foundation ready; monitoring and detection are not implemented yet.</sub></p>
+<p><img alt="Python" src="https://img.shields.io/badge/Python-151e27?style=for-the-badge&amp;logo=python&amp;logoColor=55dfbd" height="26"> <img alt="pytest" src="https://img.shields.io/badge/pytest-151e27?style=for-the-badge&amp;logo=pytest&amp;logoColor=55dfbd" height="26"> <img alt="Ruff" src="https://img.shields.io/badge/Ruff-151e27?style=for-the-badge&amp;logo=ruff&amp;logoColor=55dfbd" height="26"></p>
+<p><samp><a href="https://github.com/edda1011/ThreatLens">source ↗</a></samp></p>
+</td></tr>
+<tr><td>
+<br>
+<samp>AI &amp; ON-CHAIN VERIFICATION</samp>
+<h3><a href="https://github.com/edda1011/FortiFi"><code>./FortiFi</code></a></h3>
+<p><samp>Multi-model financial claim verification, ETH risk analysis, and tamper-evident records on Sui.</samp></p>
 
-```ini
-[interests]
-focus    = cybersecurity, threat detection, defensive security
-approach = explore, experiment, build
-```
+<p><img alt="React" src="https://img.shields.io/badge/React-151e27?style=for-the-badge&amp;logo=react&amp;logoColor=55dfbd" height="26"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-151e27?style=for-the-badge&amp;logo=fastapi&amp;logoColor=55dfbd" height="26"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-151e27?style=for-the-badge&amp;logo=sqlite&amp;logoColor=55dfbd" height="26"> <img alt="Sui" src="https://img.shields.io/badge/Sui-151e27?style=for-the-badge&amp;logo=sui&amp;logoColor=55dfbd" height="26"></p>
+<p><samp><a href="https://github.com/edda1011/FortiFi">source ↗</a></samp></p>
+</td></tr>
+</table>
 
-### `$ ls -la projects/`
+## `~/contact`
 
-#### `01` · [CyberFish](https://github.com/edda1011/CyberFish)
-**A privacy-conscious phishing analyzer.**
-
-Inspect suspicious links, emails, and QR codes with evidence, risk indicators, and practical next steps. Combines local checks with threat intelligence and optional AI explanations.
-
-`Next.js` `TypeScript` `Google Safe Browsing` `Gemini`
-
-[View source →](https://github.com/edda1011/CyberFish) · [Live demo ↗](https://cyber-fish-pi.vercel.app)
-
----
-
-#### `02` · [ThreatLens](https://github.com/edda1011/ThreatLens)
-**A local-first Windows security monitoring project.**
-
-Designed to turn Windows security events into clear, understandable alerts while keeping raw logs on the device. **Pre-alpha:** the specification and Python CLI foundation are in place; event collection and detection are not implemented yet.
-
-`Python` `Windows Security` `Detection Engineering`
-
-[View source →](https://github.com/edda1011/ThreatLens)
-
----
-
-#### `03` · [FortiFi](https://github.com/edda1011/FortiFi)
-**An experiment in financial claim verification and auditable risk analysis.**
-
-Combines multiple AI models to assess financial claims, connects ETH risk analysis to protection options, and supports tamper-evident records on Sui.
-
-`React` `FastAPI` `SQLite` `Base` `Sui / Move`
-
-[View source →](https://github.com/edda1011/FortiFi)
-
----
-
-```console
-edda1011@github:~$ _
-```
+<samp><a href="mailto:menghuo1011@gmail.com">email ↗</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/edda-chok-596171369/">linkedin ↗</a></samp>
