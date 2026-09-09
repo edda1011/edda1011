@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<h1 align="center">🌎 Welcome to My GitHub Profile 👽</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=2800&amp;pause=1800&amp;color=55DFBD&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=90&amp;lines=Hi+there!+I'm+Edda.;Cybersecurity+Student+%40+APU;Exploring.+Experimenting.+Building." alt="Hi there! I'm Edda. Cybersecurity student at APU. Exploring, experimenting, building." width="700">
