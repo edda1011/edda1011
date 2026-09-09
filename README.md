@@ -1,37 +1,68 @@
-![Edda — Cybersecurity Student at APU](assets/terminal-header.svg)
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 
-## `~/projects`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=2800&amp;pause=1800&amp;color=55DFBD&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=90&amp;lines=Hi+there!+I'm+Edda.;Cybersecurity+Student+%40+APU;Exploring.+Experimenting.+Building." alt="Hi there! I'm Edda. Cybersecurity student at APU. Exploring, experimenting, building." width="700">
+</p>
 
-<table>
-<tr><td>
-<br>
-<samp>PHISHING ANALYSIS</samp>
-<h3><a href="https://github.com/edda1011/CyberFish"><code>./CyberFish</code></a></h3>
-<p><samp>Inspect suspicious links, emails, and QR codes with clear evidence and practical next steps.</samp></p>
+## About Me
 
-<p><img alt="Next.js" src="https://img.shields.io/badge/Next.js-151e27?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=55dfbd" height="26"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-151e27?style=for-the-badge&amp;logo=typescript&amp;logoColor=55dfbd" height="26"> <img alt="Gemini" src="https://img.shields.io/badge/Gemini-151e27?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=55dfbd" height="26"></p>
-<p><samp><a href="https://github.com/edda1011/CyberFish">source ↗</a> &nbsp; / &nbsp; <a href="https://cyber-fish-pi.vercel.app">live demo ↗</a></samp></p>
-</td></tr>
-<tr><td>
-<br>
-<samp>WINDOWS SECURITY</samp>
-<h3><a href="https://github.com/edda1011/ThreatLens"><code>./ThreatLens</code></a></h3>
-<p><samp>A local-first project for turning Windows security events into understandable alerts.</samp></p>
-<p><sub>Pre-alpha · CLI foundation ready; monitoring and detection are not implemented yet.</sub></p>
-<p><img alt="Python" src="https://img.shields.io/badge/Python-151e27?style=for-the-badge&amp;logo=python&amp;logoColor=55dfbd" height="26"> <img alt="pytest" src="https://img.shields.io/badge/pytest-151e27?style=for-the-badge&amp;logo=pytest&amp;logoColor=55dfbd" height="26"> <img alt="Ruff" src="https://img.shields.io/badge/Ruff-151e27?style=for-the-badge&amp;logo=ruff&amp;logoColor=55dfbd" height="26"></p>
-<p><samp><a href="https://github.com/edda1011/ThreatLens">source ↗</a></samp></p>
-</td></tr>
-<tr><td>
-<br>
-<samp>AI &amp; ON-CHAIN VERIFICATION</samp>
-<h3><a href="https://github.com/edda1011/FortiFi"><code>./FortiFi</code></a></h3>
-<p><samp>Multi-model financial claim verification, ETH risk analysis, and tamper-evident records on Sui.</samp></p>
+- 🎓 Cybersecurity student at **Asia Pacific University (APU), Malaysia**.
+- 🔍 I enjoy exploring how attacks work and how to detect and prevent them.
+- 🛠️ I turn my interest in cybersecurity into practical tools and hands-on projects.
 
-<p><img alt="React" src="https://img.shields.io/badge/React-151e27?style=for-the-badge&amp;logo=react&amp;logoColor=55dfbd" height="26"> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-151e27?style=for-the-badge&amp;logo=fastapi&amp;logoColor=55dfbd" height="26"> <img alt="SQLite" src="https://img.shields.io/badge/SQLite-151e27?style=for-the-badge&amp;logo=sqlite&amp;logoColor=55dfbd" height="26"> <img alt="Sui" src="https://img.shields.io/badge/Sui-151e27?style=for-the-badge&amp;logo=sui&amp;logoColor=55dfbd" height="26"></p>
-<p><samp><a href="https://github.com/edda1011/FortiFi">source ↗</a></samp></p>
-</td></tr>
-</table>
+## 🚀 Featured Projects
 
-## `~/contact`
+### [CyberFish — Phishing Analyzer](https://github.com/edda1011/CyberFish)
 
-<samp><a href="mailto:menghuo1011@gmail.com">email ↗</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/edda-chok-596171369/">linkedin ↗</a></samp>
+> A privacy-conscious tool for inspecting suspicious links, emails, and QR codes.
+
+- Checks URLs, phishing language, email authentication signals, and attachment metadata.
+- Combines local checks with threat intelligence and optional AI-assisted explanations.
+- Presents evidence, risk indicators, and practical next steps in plain English.
+
+![Next.js](https://img.shields.io/badge/Next.js-151e27?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+[Source code ↗](https://github.com/edda1011/CyberFish) · [Live demo ↗](https://cyber-fish-pi.vercel.app)
+
+---
+
+### [ThreatLens — Windows Security Monitoring](https://github.com/edda1011/ThreatLens)
+
+> A local-first project for making Windows security activity easier to understand.
+
+- Designed to detect repeated failed logins and explain why they may matter.
+- Keeps raw security logs on the device, with understandable alerts as the goal.
+- **Pre-alpha:** the specification and Python CLI foundation are ready; event collection and detection are not implemented yet.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-261230?style=flat-square&logo=ruff&logoColor=D7FF64)
+
+[Source code ↗](https://github.com/edda1011/ThreatLens)
+
+---
+
+### [FortiFi — Financial Claim Verification](https://github.com/edda1011/FortiFi)
+
+> An experiment combining AI-assisted verification, ETH risk analysis, and on-chain records.
+
+- Compares multiple AI models' assessments of financial claims and articles.
+- Connects ETH risk analysis with protection options through the Thetanuts SDK.
+- Supports tamper-evident analysis and transaction records on Sui.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Sui](https://img.shields.io/badge/Sui-4DA2FF?style=flat-square&logo=sui&logoColor=white)
+
+[Source code ↗](https://github.com/edda1011/FortiFi)
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:menghuo1011@gmail.com" title="Email Edda"><img src="https://skillicons.dev/icons?i=gmail" alt="Email Edda" width="48" height="48"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/edda-chok-596171369/" title="Edda on LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="Edda on LinkedIn" width="48" height="48"></a>
+</p>
