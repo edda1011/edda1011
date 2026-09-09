@@ -44,9 +44,9 @@
 
 [![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edda1011/ThreatLens)
 
----
+---### FortiFi — Financial Claim Verification
 
-### FortiFi — Financial Claim Verification
+🏆 **1st Runner-Up — MUBA Hackathon, Thetanuts AI x Option Track**
 
 > An experiment combining AI-assisted verification, ETH risk analysis, and on-chain records.
 
