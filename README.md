@@ -26,7 +26,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edda1011/CyberFish) · [![Live Demo](https://img.shields.io/badge/Live_Demo-008C95?style=for-the-badge&logo=vercel&logoColor=white)](https://cyber-fish-pi.vercel.app)
+[![Source Code](https://img.shields.io/badge/Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edda1011/CyberFish)  [![Live Demo](https://img.shields.io/badge/Live_Demo-008C95?style=for-the-badge&logo=vercel&logoColor=white)](https://cyber-fish-pi.vercel.app)
 
 ---
 
